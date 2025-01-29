@@ -25,7 +25,7 @@
 
 # Docker file to build on x86_64
 # https://docs.nvidia.com/deeplearning/frameworks/user-guide/index.html
-FROM nvcr.io/nvidia/tritonserver:24.12-py3
+FROM nvcr.io/nvidia/tritonserver:25.01-py3
 
 # disable terminal interaction for apt
 ENV DEBIAN_FRONTEND=noninteractive

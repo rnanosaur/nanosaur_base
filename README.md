@@ -1,4 +1,4 @@
-# 🦕🖼️ nanosaur_perception
+# 🦕🖼️ nanosaur perception
 <!-- INTRO START -->
 **nanosaur** The smallest [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson) dinosaur robot, **open-source**, fully **3D printable**, based on [**ROS 2**](https://www.ros.org/) & [**Isaac ROS**](https://developer.nvidia.com/isaac-ros-gems).
 
